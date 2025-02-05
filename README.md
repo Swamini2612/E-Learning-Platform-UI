@@ -29,7 +29,7 @@ Web browser (e.g., Chrome, Firefox, Safari)
 Text editor (e.g., Visual Studio Code, Sublime Text)
 Installation
 Clone the repository:
-git clone https://github.com/keerti-1924/E-Learning-Website-HTML-CSS.git
+git clone (https://github.com/Swamini2612/E-Learning-Platform-UI)
 Open the project in your preferred text editor.
 Launch the index.html file in a web browser.
 Technologies Used
