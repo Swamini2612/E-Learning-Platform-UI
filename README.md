@@ -49,3 +49,5 @@ License
 This project is free to use and does not contains any license.
 
 Output:
+![Image](https://github.com/user-attachments/assets/d5bd2d74-9c20-4f3a-beaf-e87236cdc7c9)
+![Image](https://github.com/user-attachments/assets/817da426-fc61-460c-aef5-292188b1d462)
