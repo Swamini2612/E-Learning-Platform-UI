@@ -51,3 +51,6 @@ This project is free to use and does not contains any license.
 Output:
 ![Image](https://github.com/user-attachments/assets/d5bd2d74-9c20-4f3a-beaf-e87236cdc7c9)
 ![Image](https://github.com/user-attachments/assets/817da426-fc61-460c-aef5-292188b1d462)
+![Image](https://github.com/user-attachments/assets/fae45771-f53d-41e9-b2fc-b5672627d382)
+![Image](https://github.com/user-attachments/assets/2d818730-21c9-4cb8-a79e-40a3f242a6d5)
+![Image](https://github.com/user-attachments/assets/489d24ec-5299-416c-9d5d-cd02a78363ff)
